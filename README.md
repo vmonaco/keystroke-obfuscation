@@ -8,8 +8,8 @@ The full paper can be downloaded [here](http://www.vmonaco.com/publications/Obfu
 
     @inproceedings{monaco2016obfuscating,
       title={Obfuscating Keystroke Time Intervals to Avoid Identification and Impersonation},
-      author={Monaco, John V and Aberdeen, MD and Tappert, Charles C and Pleasantville, NY},
-      booktitle={International Conference on Biometrics (ICB)},
+      author={Monaco, John V and Tappert, Charles C},
+      booktitle={The 9th IAPR International Conference on Biometrics (ICB)},
       year={2016},
       organization={IEEE}
     }
